@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.pyc
+*.zip
+chrome-win64/
+chromedriver-win64/
